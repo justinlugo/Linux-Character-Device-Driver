@@ -1,2 +1,2 @@
 # Linux-Character-Device-Driver
-Character-mode Linux driver kernel module.
+(Spring 2023)<br>For this program, we were tasked with writing a character-mode Linux device driver as a kernel module. I had already had a Linux VM setup from one of my cybersecurity classes, so I just had to write a kernel for that. Essentially, this program can be installed as a Linux kernel module that will allow for reading and writing characters to the device driver.
